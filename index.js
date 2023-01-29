@@ -42,7 +42,7 @@ document.querySelectorAll("button")[i].addEventListener("click",function(){
             crash.play();
             break;
         case "k" :
-            var kick = new Audio("sounds/kick-base.mp3");
+            var kick = new Audio("sounds/kick-bass.mp3");
             kick.play();
             break;
 
